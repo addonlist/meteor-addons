@@ -1,6 +1,6 @@
 {
   "name": "addons",
-  "description": "Allows you to use addons provisioned with your Addons.io account - PLACEHOLDER"
+  "description": "Allows you to use addons provisioned with your Addons.io account - PLACEHOLDER",
   "homepage": "https://github.com/addonlist/meteor-addons",
   "author": "Ben Pellow <ben@addons.io> (https://addons.io)",
   "version": "0.0.1",
